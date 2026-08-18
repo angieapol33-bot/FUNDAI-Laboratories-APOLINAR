@@ -5,7 +5,7 @@
 ## Student Information
 - Name: Angeline Grace Joy L. Apolinar
 - Course: BSIT
-- Section: 2A
+- Section: 09282-FUNDAI
 - GitHub Username: angieapol33
 
 ## Laboratory Activities
